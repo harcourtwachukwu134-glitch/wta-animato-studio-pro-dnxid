@@ -1,0 +1,16 @@
+{
+  "appId": "com.webtoapp.animatostudiopronxid",
+  "appName": "Animato Studio Pro",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "url": "https://animatostudiopro.com/#tools/apk",
+    "cleartext": false,
+    "allowNavigation": [
+      "animatostudiopro.com",
+      "*.animatostudiopro.com"
+    ]
+  }
+}
